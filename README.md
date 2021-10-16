@@ -7,5 +7,5 @@ This program changes the user's IP address.
 4. Aditya Binukumar (persivefire@gmail.com)
 ## **INSTRUCTIONS FOR USE**
 1. Run from Directory using cmd.
-2.Use this for an example: 
-```python3 mac-changer.py --interface eth0 --mac 00:11:22:11:22:33:99```
+2. Use this for an example: 
+> `python3 mac-changer.py --interface eth0 --mac 00:11:22:11:22:33:99`
